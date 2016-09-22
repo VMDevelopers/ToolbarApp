@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FRUTAS</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_add">Añadir</string>
+    <string name="action_favorite">Marcar Favorito</string>
+
+    <string name="title_activity_detail">DetailActivity</string>
+
+    <string name="girl_ipsum">
+  Aqui van los elementos de la composicion  de los alimentos
+    </string>
+    <string name="composicion">
+        gr	    Kcal	gr	gr	gr	gr	gr	mg	mg	mg	mg	Equiv T	UI	Equiv T	mg	mg
+        96.0	61.4	0.6	0.1	15.0	0.6	1.4	3.8	21.1	0.2	0.3	ND	0.0	15.4	0.0	14.7
+
+    </string>
+    <string name="action_search">Buscar</string>
+</resources>
